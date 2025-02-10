@@ -58,33 +58,33 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected*
-*_Made With love by ©STANY-TECH™♻️_*
+*_Made With love by ©CRONAZ-XD™♻️_*
 ❖⊷━━━━━━━━━━━━━━━━━━━━━━━━⊷❖
 ╭──━━━━━━◇✣❖◇━━━━━━━───❂
-┃ FOR ALL STANY-TECH MD BOT
+┃ FOR ALL SADOW x KILAR BOT
 ┃ _Thanks for your support._
 ╰──━━━━━━◇✣❖◇━━━━━━━───❂
   ▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒
 ╭──━━━━━━◇✣❖◇━━━━━━━───❂
 ┃❖  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-┃⬡ *Ytube:* _https://youtube.com/@stanleytechnology?si=jQO3LPtvE92aw4fi_
-┃⬡ *wa-me:* _https://wa.me/255756738502_
-┃⬡ *wa-me:* _https://wa.me/255612285041_
+┃⬡ *Ytube:* _https://youtube.com/_
+┃⬡ *wa-me:* _https://wa.me/918138898059_
+┃⬡ *wa-me:* _https://wa.me/94704031866
 ┃
 ┃⬡MY bot Repos⬡
 ┃
-┃⬡ *STANY-TECH-XMD bot:* _https://github.com/Stanking11/STANY-TECH-XMD
-┃⬡ *My Github:* _https://github.com/Stanking11_
+┃⬡ *STANY-TECH-XMD bot:* _https://github.com/coming soon 
+┃⬡ *My Github:* _https://github.com/_
 ┃
 ┃⬡Support channels⬡
 ┃
-┃⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45_
-┃⬡ *GROUP COMMUNITY:*_https://chat.whatsapp.com/EqfFoV8zm7hGTux2P4nmbN_
+┃⬡ *WATSAPP:* _https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z_
+┃⬡ *GROUP COMMUNITY:*_https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z_
 ┃
-┃⬡ *©Copyright*2025 _STANLEY MASANYIWA |©STANY-TECH™
+┃⬡ *|©CRONAZ-XD™
 ╰───━━━━━━◇✣❖◇━━━━━━━───❂
 ▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒
-✣➻⊷━━━━━━━━━━━━━━━━━━━━━━━━⊷➻✣
+⊷━━━━━━━━━━━━━━━━━━━━━━━━⊷
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
