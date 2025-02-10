@@ -60,29 +60,27 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Fredie♻️_*
+*_Made With by Cronaz♻️_*
 ______________________________________
 ╔════◇
-║ FOR ALL FREDIE BOTS
+║ FOR ALL SADOW BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@freeonlinetvT1_
-║⬡ *Wa-me:* _https://wa.me/255752593977_
-║⬡ *Wa-me:* _https://wa.me/255620814108_
-║⬡ *T-me:* _t.me/freditech_
+║⬡ *Ytube:* _youtube.com/_
+║⬡ *Wa-me:* _https://wa.me/918138898059_
+║⬡ *Wa-me:* _https://wa.me/94704031866_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *LUCKY_MD:* _https://github.com/Fred1e/LUCKY_MD_
-║⬡ *My Github:* _https://github.com/Fred1e_
+║⬡ *SADOW x KILAR:* _https://github.com/COMING SOON_
+║⬡ *My Github:* _https://github.com/_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VAIHCQV84OM8LP59FO3F_
-║⬡ *WA GROUP:* _https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9_
-║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
+║⬡ *WATSAPP:* _https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z_
+║⬡ *WA GROUP:* _https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z_
 ║
 ║⬡ *©Copyright* _Fredi-Ezra|kingfredie_
 ╚══════════════════════════════════╝
